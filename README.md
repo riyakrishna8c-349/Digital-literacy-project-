@@ -1,7 +1,11 @@
 Name: riyakrishna
+
 Registration Number: 25BHI10012
+
 Course: CSE0001 – Digital Literacy
+
 Branch: B.Tech (CSE with Health Informatics)
+
 Year: 1st Year
 
  Project Overview
