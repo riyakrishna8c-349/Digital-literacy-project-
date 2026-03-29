@@ -38,7 +38,7 @@ The project consists of five tasks, each focusing on a different aspect of digit
 
  Links
 
-* 💻 GitHub Repository: 
+* 💻 GitHub Repository: https://github.com/riyakrishna8c-349/Digital-literacy-project-.git
 * 📝 Google Form (Task 3): https://docs.google.com/forms/d/e/1FAIpQLSdYCbdivEWtTkmq6zjVnproZ2F2MfR9eKKeyd3KkbjwsCHT4A/viewform?usp=header
 * 🎨 Infographic (Task 1): https://www.canva.com/design/DAHE3JOUOwI/Plf0gh68fG_TzPLxbyTqKw/edit
 
